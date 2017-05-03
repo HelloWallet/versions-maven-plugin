@@ -85,6 +85,17 @@
     <url>https://github.com/HelloWallet/versions-maven-plugin.git</url>
   </scm>
 
+  <distributionManagement>
+    <repository>
+      <id>ENGR</id>
+      <url>https://msnexus.morningstar.com/content/repositories/ENGR-releases/</url>
+    </repository>
+    <snapshotRepository>
+      <id>ENGR</id>
+      <url>https://msnexus.morningstar.com/content/repositories/ENGR-snapshots/</url>
+    </snapshotRepository>
+  </distributionManagement>
+
   <properties>
     <mojo.java.target>1.5</mojo.java.target>
     <mavenVersion>2.2.1</mavenVersion>
