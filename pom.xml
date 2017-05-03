@@ -8,7 +8,7 @@
   </parent>
 
   <artifactId>versions-maven-plugin</artifactId>
-  <version>2.4-HW</version>
+  <version>2.4-HW-1</version>
   <packaging>maven-plugin</packaging>
 
   <name>Versions Maven Plugin</name>
@@ -80,15 +80,10 @@
   </prerequisites>
 
   <scm>
-    <connection>scm:git:https://github.com/mojohaus/versions-maven-plugin.git</connection>
-    <developerConnection>scm:git:ssh://git@github.com/mojohaus/versions-maven-plugin.git</developerConnection>
-    <url>https://github.com/mojohaus/versions-maven-plugin</url>
-    <tag>HEAD</tag>
+    <connection>scm:git:https://github.com/HelloWallet/versions-maven-plugin.git</connection>
+    <developerConnection>scm:git:ssh://git@github.com/HelloWallet/versions-maven-plugin.git</developerConnection>
+    <url>https://github.com/HelloWallet/versions-maven-plugin.git</url>
   </scm>
-  <issueManagement>
-    <system>github</system>
-    <url>https://github.com/mojohaus/versions-maven-plugin/issues/</url>
-  </issueManagement>
 
   <properties>
     <mojo.java.target>1.5</mojo.java.target>
