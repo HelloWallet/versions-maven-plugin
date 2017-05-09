@@ -102,7 +102,7 @@
     <repository>
       <id>morningstar-engineering-nexus-snapshots</id>
       <name>Morningstar Engineering Nexus - Public</name>
-      <url>https://msnexus.morningstar.com/content/repositories/ENGR-snapshots/</url>
+      <url>https://msnexus.morningstar.com/content/repositories/HELLO-snapshots/</url>
       <releases>
         <enabled>false</enabled>
         <updatePolicy>never</updatePolicy>
@@ -115,7 +115,7 @@
     <repository>
       <id>morningstar-engineering-nexus-releases</id>
       <name>Morningstar Engineering Nexus - Public</name>
-      <url>https://msnexus.morningstar.com/content/repositories/ENGR-releases/</url>
+      <url>https://msnexus.morningstar.com/content/repositories/HELLO-releases/</url>
       <releases>
         <enabled>true</enabled>
         <updatePolicy>never</updatePolicy>
