@@ -144,11 +144,11 @@
   <distributionManagement>
     <repository>
       <id>ENGR</id>
-      <url>https://msnexus.morningstar.com/content/repositories/ENGR-releases/</url>
+      <url>https://msnexus.morningstar.com/content/repositories/HELLO-releases/</url>
     </repository>
     <snapshotRepository>
       <id>ENGR</id>
-      <url>https://msnexus.morningstar.com/content/repositories/ENGR-snapshots/</url>
+      <url>https://msnexus.morningstar.com/content/repositories/HELLO-snapshots/</url>
     </snapshotRepository>
   </distributionManagement>
 
